@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zehr0
 - 👀 I’m interested in mobile app development
-- 🌱 I’m currently learning and working with flutter
+- 🌱 I’m currently working with flutter
 - 📫 How to reach me? 
 
 <!---
